@@ -1,10 +1,10 @@
 '''
-CS 550 - HW1 
+
 Decision Tree Classifier
 Part 1 : Own Implementation
 March, 2018
 
-Zulal Bingol (21301083)
+Zulal Bingol
 
 '''
 
